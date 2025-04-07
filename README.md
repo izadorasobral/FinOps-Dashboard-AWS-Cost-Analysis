@@ -29,5 +29,5 @@ This dashboard was developed using Power BI to monitor and analyze AWS service c
 ## ✍️ Author
 **Izadora Sobral**  
 - *AWS Cloud Practitioner* | *FinOps Certified Practitioner*  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)  
-- GitHub: [Your GitHub Profile](https://github.com)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/izadora-sobral)  
+- GitHub: [Your GitHub Profile](https://github.com/izadorasobral)  
