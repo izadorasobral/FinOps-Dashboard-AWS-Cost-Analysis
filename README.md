@@ -27,7 +27,7 @@ This dashboard was developed using Power BI to monitor and analyze AWS service c
 ## 📊 Dashboard Preview
 Take a look at the FinOps Dashboard below:
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](images/dashboard-preview.png.png)
 
 ## ✍️ Author
 **Izadora Sobral**  
