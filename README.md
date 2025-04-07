@@ -24,10 +24,6 @@ This dashboard was developed using Power BI to monitor and analyze AWS service c
 - **AWS Billing Export** – Source of data (simulated or actual).
 - **FinOps Foundation Knowledge** – Applied principles for cost optimization.
 
-## 📊 Dashboard Preview
-Take a look at the FinOps Dashboard below:
-
-![Dashboard Preview]("images\Captura de tela 2025-04-07 121846.png")
 
 
 ## ✍️ Author
