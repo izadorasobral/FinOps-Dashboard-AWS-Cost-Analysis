@@ -34,7 +34,7 @@ This dashboard was developed using Power BI to monitor and analyze AWS service c
 ---
 
 🖼 **Dashboard Preview**  
-![Dashboard Preview](images/Captura de tela 2025-04-07 121846.png)
+![Dashboard Preview](images/dashboard-preview.png)
 
 ---
 
